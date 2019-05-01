@@ -1,0 +1,6 @@
+name: binder-python
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
